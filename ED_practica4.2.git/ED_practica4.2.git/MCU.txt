@@ -1,0 +1,23 @@
+01 Iron Man
+02 The Incredible Hulk
+03 Iron Man 2
+04 Thor
+05 Captain America: The First Avenger
+06 The Avengers
+07 Iron Man 3
+08 Thor: The Dark World
+09 Captain America: The Winter Soldier
+10 Guardians of the Galaxy
+11 Avengers: Age of Ultron
+12 Ant-Man
+13 Captain America: Civil War
+14 Doctor Strange
+15 Guardians of the Galaxy vol. 2
+16 Spider-Man: Homecoming
+17 Thor: Ragnarok
+18 Black Panther
+19 Avengers: Infinity War
+20 Ant-Man and the Wasp
+21 Captain Marvel
+22 Avengers: Endgame
+23 Spider-Man: Far From Homecoming
